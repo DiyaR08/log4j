@@ -1,0 +1,8 @@
+[ERROR] 2019-05-03 13:55:09.204 [main] Log4jDemo - Not generating the logs
+[FATAL] 2019-05-03 13:55:09.209 [main] Log4jDemo - Fatal error
+[ERROR] 2019-05-03 13:58:13.121 [main] Log4jDemo - Not generating the logs
+[FATAL] 2019-05-03 13:58:13.123 [main] Log4jDemo - Fatal error
+[ERROR] 2019-05-04 06:27:03.789 [main] Log4jDemo - Not generating the logs
+[FATAL] 2019-05-04 06:27:03.793 [main] Log4jDemo - Fatal error
+[ERROR] 2019-05-04 14:33:28.184 [main] Log4jDemo - Not generating the logs
+[FATAL] 2019-05-04 14:33:28.187 [main] Log4jDemo - Fatal error
